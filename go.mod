@@ -14,7 +14,7 @@ require (
 	github.com/pierrec/lz4 v2.0.5+incompatible
 	github.com/stretchr/testify v1.8.4
 	github.com/zeebo/assert v1.3.0
-	go.opentelemetry.io/collector/config/configtelemetry v0.94.1
+	go.opentelemetry.io/collector/config/configtelemetry v0.95.0
 	go.opentelemetry.io/collector/pdata v1.1.0
 	go.opentelemetry.io/otel v1.23.0
 	go.opentelemetry.io/otel/metric v1.23.0
@@ -56,14 +56,3 @@ require (
 	google.golang.org/genproto/googleapis/rpc v0.0.0-20240102182953-50ed04b92917 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
-
-
-
-
-
-
-
-
-
-
-
